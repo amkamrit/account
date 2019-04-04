@@ -8,7 +8,8 @@
       <li><a href="{{asset('index')}}">Dashboard</a></li>
       <li><a href="{{asset('account')}}">Account</a></li>
       <li><a href="{{route('entry.index')}}">Entries</a></li>
-      <li><a href="{{route('orderUser.index')}}">Order</a></li>
+      <li><a href="">Report</a></li>
+      <li><a href="{{route('orderUser.index')}}">Order/Create Bill</a></li>
       <li><a href="{{route('bill.index')}}">Create Bill</a></li>
 
       <li><a href="#">Logout(Admin@gmail.com)</a></li>
