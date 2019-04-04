@@ -13,36 +13,6 @@
 				<label class="control-label">Date(YYY-MM-DD)</label>
 				<input type="date"  name="entrie_date" class="form-control">
 		</div>
-		<div class="row">
-			<div class="col-lg-2">
-				<div class="form-group">
-			<label class="control-label">Size</label>
-			<input name="size" class="form-control"/>
-		<div class="help-block"></div>
-		</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="form-group">
-			<label class="control-label">Weight</label>
-			<input name="weight" class="form-control"/>
-		<div class="help-block"></div>
-		</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="form-group">
-			<label class="control-label">Qty</label>
-			<input name="qty" class="form-control"/>
-		<div class="help-block"></div>
-		</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="form-group">
-			<label class="control-label">Rate</label>
-			<input name="rate" class="form-control"/>
-		<div class="help-block"></div>
-		</div>
-			</div>
-		</div>
 		<table class="table table-condensed table-bordered">
 			<tbody>
 				<tr>
